@@ -1,5 +1,9 @@
 # Review Shield — Fake Product Review Detector
 
+## About This Project
+
+Built to explore how AI can improve trust in online shopping and digital platforms.
+
 Online reviews influence what people buy, but not every review is honest.
 
 Some are overly promotional, misleading, or completely fake.
@@ -117,12 +121,6 @@ Review Shield helps reduce that problem using AI.
 * Single review analyzer
 * Bulk CSV results
 * Charts dashboard
-
----
-
-## About This Project
-
-Built to explore how AI can improve trust in online shopping and digital platforms.
 
 ---
 
